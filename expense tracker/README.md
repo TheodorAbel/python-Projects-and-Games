@@ -9,7 +9,7 @@ Welcome to the **Expense Tracker Application**! This project is built using **Py
 - **Delete** unwanted expenses
 - **Search** through your list by category or description
 
-All data is stored in a **JSON file** (`expenses.json`), and the project includes **unit tests** written in **pytest** to ensure core functionalities are properly working.
+All data is stored in a **JSON file** (`expenses.json`), and the project includes **unit tests** written in **pytest** to ensure core functionalities  are properly working.
 
 ---
 
