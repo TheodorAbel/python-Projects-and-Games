@@ -4,7 +4,7 @@
 📝 How It Works
 🎲 Two players take turns marking their symbols (X or O) on a 3x3 grid.
 🏆 The first player to get three in a row – across, down, or diagonally – wins!
-💡 If all squares are filled without a winner, it's a tie!
+💡 If all squares are  filled without a winner, it's a tie!
 
 Board Layout:
 
