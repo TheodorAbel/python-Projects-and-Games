@@ -68,5 +68,5 @@ bye!
 
 ---
 
-Enjoy playing these simple Python games! 🎮
+Enjoy playing these simple Python games!    🎮
 
